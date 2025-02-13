@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rafisics/rafisics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Welcome, fellow explorer!</h1>
 
-Here are some ideas to get you started:
+  <!-- GitHub Stats Card with Dynamic Theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rafisics&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rafisics&show_icons=true&count_private=true&include_all_commits=true&theme=default">
+    <img alt="GitHub Stats for rafisics" 
+         src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafisics&show_icons=true&count_private=true&include_all_commits=true&theme=default">
+  </picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Contribution Graph Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Graph" 
+         src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <!-- Visitor Counter -->
+  <img src="https://profile-counter.glitch.me/rafisics/count.svg" alt="Visitor Counter for rafisics" />
+
+</div>
