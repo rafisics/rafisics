@@ -9,7 +9,8 @@
     <source media="(prefers-color-scheme: light)" 
             srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rafisics&show_icons=true&count_private=true&include_all_commits=true&theme=default">
     <img alt="GitHub Stats for rafisics" 
-         src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafisics&show_icons=true&count_private=true&include_all_commits=true&theme=default">
+         src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafisics&show_icons=true&count_private=true&include_all_commits=true&theme=default"
+         style="max-width: 100%;">
   </picture>
 
   <!-- Contribution Graph Snake -->
@@ -19,10 +20,13 @@
     <source media="(prefers-color-scheme: light)" 
             srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Graph" 
-         src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+         src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+         style="max-width: 100%; margin-top: 10px;">
   </picture>
 
   <!-- Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/rafisics/count.svg" alt="Visitor Counter for rafisics" />
+  <div style="text-align: center; padding-top: 15px;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=rafisics.rafisics&left_text=Visitors" alt="Visitor Count" />
+  </div>
 
 </div>
